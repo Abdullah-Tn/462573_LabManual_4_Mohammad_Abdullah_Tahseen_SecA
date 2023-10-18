@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std; 
 int main()
-TASK 1
 {   cout<<"TASK 1:-"<<endl;
 	int i;
 	int y=0, sum1=0;
@@ -19,8 +18,7 @@ cout<<"The sum of first 10 natural numbers is"<<endl;
  cout<<sum1<<endl;
 
 //end of task1 
-______________________________________________________
-TASK 2
+
     cout<<"TASK 2:-"<<endl; 
 cout<<"Enter the number to create the table"<<endl; 
 int A, B; 
@@ -33,8 +31,7 @@ cout<< A<< 'x' <<B << '='<<C<<endl;
 }
 
 //end of task2 
-__________________________________________________
-TASK 3
+
     cout<<"TASK 3:- "<<endl; 
     
 int p, q, r=1;
@@ -49,8 +46,7 @@ r = r*q;
 cout<<"Factorial of the number is "<<r<<endl;
 
 //end of task 3
-_________________________________________________________
-TASK 4
+
 cout<<"TASK 4: -"<<endl; 
 
 int a, b, c, sum; 
